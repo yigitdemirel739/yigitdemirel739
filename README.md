@@ -1,8 +1,7 @@
- <p align="center">
-  <img src="https://github.com/yigitdemirel739/yigitdemirel739/blob/main/istockphoto-1453661187-612x612.jpg?raw=true" alt="I Love Döner!" width="100%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVhajN0NXpjMnd3ZzB1Mjl0NmNyaG81NmlydzRyOTltbmdmbHZ2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gLcUG7QiR0jpMzoNUu/giphy.gif" alt="Explosion GIF" width="100%" />
 </p>
-
 ---
 
-### Sa türk war mi ?
+### Yigits repos
 Welcome to my profile!
