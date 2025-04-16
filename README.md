@@ -1,7 +1,9 @@
-![Explosion GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVhajN0NXpjMnd3ZzB1Mjl0NmNyaG81NmlydzRyOTltbmdmbHZ2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gLcUG7QiR0jpMzoNUu/giphy.gif)
+<h1 align="center">👋 Yigit's Repos</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif" width="400" alt="Explosion GIF" />
+</p>
 
 ---
-
-### 👋 Yigit's Repos
 
 Welcome to my profile!
